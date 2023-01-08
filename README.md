@@ -41,7 +41,7 @@ opt.getPayoff(spot); // 10
 
 opt.getPrice(spot); // 28.61
 
-opt.getDelta(spot); // 0.74
+opt.getDelta(spot); // 0.71
 opt.getGamma(spot); // 0.01
 opt.getVega(spot); // 24.15
 opt.getTheta(spot); // 23.57

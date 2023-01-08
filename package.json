@@ -1,7 +1,7 @@
 {
     "name": "black-scholes-bonanza",
     "version": "1.0.1",
-    "description": "Pricing tools using Black-Scholes",
+    "description": "A library to deal with options and option strategies",
     "author": "vantessel",
     "license": "MIT",
     "main": "lib/index.js",
