@@ -1,16 +1,17 @@
 import { normalPdf, normalCdf, inverseNormalCdf } from './stats';
-import { Straddle, Strangle, Spread, RiskReversal, Butterfly } from './strategies';
-import { VanillaOption, DigitalOption } from './options';
+import { Butterfly, RiskReversal, Spread, Straddle, Strangle, Strategy } from './strategies';
+import { DigitalOption, VanillaOption } from './options';
 
 export {
     normalPdf,
     normalCdf,
     inverseNormalCdf,
-    VanillaOption,
     DigitalOption,
+    VanillaOption,
+    Butterfly,
+    RiskReversal,
+    Spread,
     Straddle,
     Strangle,
-    Spread,
-    RiskReversal,
-    Butterfly,
+    Strategy,
 };
