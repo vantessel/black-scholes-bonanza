@@ -1,6 +1,6 @@
 {
     "name": "black-scholes-bonanza",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Pricing tools using Black-Scholes",
     "author": "vantessel",
     "license": "MIT",
