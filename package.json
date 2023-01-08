@@ -1,6 +1,6 @@
 {
     "name": "black-scholes-bonanza",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Pricing tools using Black-Scholes",
     "author": "vantessel",
     "license": "MIT",
@@ -8,7 +8,11 @@
     "types": "lib/index.d.ts",
     "keywords": [
         "black-scholes",
+        "black",
+        "scholes",
+        "implied",
         "volatility",
+        "option",
         "pricing"
     ],
     "scripts": {
